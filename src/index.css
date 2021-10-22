@@ -1,0 +1,7 @@
+.image_block{
+  position: absolute;
+  height: 50px;
+  left: 50%;
+  margin-left: -50px;
+  margin-top: -25px; 
+}
